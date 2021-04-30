@@ -2,7 +2,7 @@
 
 - __Feladat beadása űrlapon:__ `https://forms.office.com/r/A4CHveP7yY`
 
-- Két feladatcsoportban összesen 6 feladat van. 
+- Két feladatcsoportban összesen 6 feladat van.  
 - Az angulár keretrendszer, a szükséges tesztkörnyezet valamint Bootsrap konfigurálva van.
 - Maximális pontszám: 100 pont, 51 pont kell az elégséges eredményhez. 
 
@@ -23,7 +23,7 @@ JEST Tesztkörnyezet futtatása:
 - Feladat forrás file:  task01-algorithm/main.js és index.html
 
 - Az index.html csak a vizuális ellenőrzés lehetőségét adja, 
-teszt szempontjából lényegtelen tartalma
+teszt szempontjából lényegtelen tartalma 
 
 Adott egy objektumlista ("movieList"), amelyben 7 film adatai találhatók. Le szeretnénk szűrni ezeket a filmeket két szempont szerint:
  - a megjelenés éve (adott évben megjelent)
